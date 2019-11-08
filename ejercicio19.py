@@ -1,16 +1,18 @@
-#calcular el volumen de un cubo
-arista,volumen=0,0.0
+#calcular el teorema de pitagoras
+a,b,c=0,0,0.0
 
 #asignacion de valores
-arista=8
+a=4
+b=3
 
 #calculo
-volumen=arista*arista*arista
+c=(a*a)+(b*b)
 
 #mostrar valores
-print("la arista:",arista)
-print("el volumen es:",volumen)
+print("a es:",a)
+print("b es:",b)
+print("c es:",c)
 
 #verificador
-volumen_maximo=(volumen>300)
-print("el volumen es maximo:",volumen_maximo)
+c_maximo=(c>50)
+print("c es maximo:",c_maximo)
