@@ -10,7 +10,7 @@ tiempo=12
 posicion_final=posicion_inicial+(velocidad*tiempo)
 
 #mostrar valores
-print("la posicion_inicial es:",posicion_inicial)
+print("la pocicion_inicial es:",posicion_inicial)
 print("la velocidad es:",velocidad)
 print("el tiempo es:",tiempo)
 print("la posicion_final es:",posicion_final)
