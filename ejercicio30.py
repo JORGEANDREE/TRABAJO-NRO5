@@ -1,0 +1,16 @@
+fecha=input("ingrese la fecha de emision:")
+hora=input("ingrese la hora:")
+local=input("ingrese el local:")
+caja=int(input("ingrese el numero de caja:"))
+tipo_de_mondeda=input("ingrese el tipo de moneda:")
+producto=input("ingrese el prodcuto:")
+print("####################SUPERMERCADO################")
+print("## fecha:",fecha,"  hora:",hora," #")
+print("##############################################")
+print("# producto:",producto ,"                    #")
+print("# local:", local, "                         #")
+print("# caja:", caja , "                          #")
+print("# tipo de moneda:", tipo_de_mondeda , "     #")
+print("##############################################")
+
+
